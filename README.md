@@ -141,36 +141,7 @@ pip install -r requirements.txt
 5️⃣ Run Application
 streamlit run app.py
 
-🌐 Deploy on Streamlit Cloud
 
-Upload the project to your GitHub
-
-Go to https://share.streamlit.io
-
-Select your repository
-
-Choose app.py
-
-Deploy
-
-Your app becomes live instantly and accessible anywhere.
-
-🔍 Emotion Analytics (Examples)
-🟦 Emotion Frequency Chart
-
-Shows which emotions occur most often.
-
-📉 Emotion Trend Line
-
-Plots how emotion changes over time — ideal for behavioral analysis.
-
-🎯 Probability Distribution
-
-Displays confidence levels for each emotion from the last detection.
-
-📥 CSV Export
-
-Download complete emotion history for further analysis.
 
 🧑‍💻 Author
 
