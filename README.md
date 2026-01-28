@@ -1,7 +1,6 @@
 🎭 Real-Time Emotion Detection & AI Mood Support System
 An intelligent, interactive Streamlit application that understands human emotion and responds with AI-driven support.
 
-This project is live at : 
 
 🌟 Overview
 
